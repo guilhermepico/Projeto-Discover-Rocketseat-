@@ -31,7 +31,8 @@
 }
 
 body {
-  background: var(--bg-url) no-repeat top center/cover 
+  background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 
 }
 body * {
@@ -50,7 +51,7 @@ body * {
   width: 100%;
   max-width: 568px;
   margin: 56px auto 0px;
-  height: 100vh;
+  
 
 }
 
