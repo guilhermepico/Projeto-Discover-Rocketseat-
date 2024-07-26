@@ -13,14 +13,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="./github/preview.jpg">
+  <img alt="Projeto DevLinks" src="./github/preview.jpg">
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+<p align="center">Projeto DevLinks</p>
 
 ## 🚀 Tecnologias
 
