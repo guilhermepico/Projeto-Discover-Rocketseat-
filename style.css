@@ -118,7 +118,7 @@ body * {
 .light #switch button {
   right: 0;
   left: initial;
-  animation: slide-in 0.4s;
+  animation: slide-in 0.2s;
 }
 
 #switch span {
